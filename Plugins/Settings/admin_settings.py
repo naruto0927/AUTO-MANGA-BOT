@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -133,7 +133,7 @@ async def list_admins_cb(client, callback_query):
     except Exception as e:
         await callback_query.answer(f"Error: {e}", show_alert=True)
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -257,7 +257,7 @@ async def admin_channels_cb(client, callback_query):
 
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -107,7 +107,7 @@ async def check_fsub(client, user_id):
         return []
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

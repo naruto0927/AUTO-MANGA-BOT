@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -15,7 +15,7 @@ async def web_server():
     return app
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

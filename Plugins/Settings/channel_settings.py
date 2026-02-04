@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -128,7 +128,7 @@ async def dump_channel_menu(client, callback_query):
     except Exception as e:
          pass
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -185,7 +185,7 @@ async def rem_channel_cmd(client, message):
     await message.reply(f"<blockquote><b>✅ Upload Channel Removed</b></blockquote>", parse_mode=enums.ParseMode.HTML)
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

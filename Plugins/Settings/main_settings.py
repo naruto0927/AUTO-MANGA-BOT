@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -196,7 +196,7 @@ async def set_source_menu(client, callback_query):
     except Exception as e:
         await callback_query.answer("Error opening source menu")
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -210,7 +210,7 @@ async def set_source_callback(client, callback_query):
     await set_source_menu(client, callback_query)
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

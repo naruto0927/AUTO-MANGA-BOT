@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -188,7 +188,7 @@ async def wm_set_text_cb(client, callback_query):
     await edit_msg_with_pic(callback_query.message, text, InlineKeyboardMarkup(buttons))
     asyncio.create_task(timeout_handler(client, callback_query.message, callback_query.from_user.id, "waiting_wm_text"))
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -360,7 +360,7 @@ async def view_progress_cb(client, callback_query):
         pass # Ignore Message not modified errors
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

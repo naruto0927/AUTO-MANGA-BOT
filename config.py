@@ -1,7 +1,7 @@
 #Supoort group @rexbotschat
 #Supoort group @rexbotschat
 #Supoort group @rexbotschat
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -38,7 +38,7 @@ class Config:
     DEFAULT_FILENAME_FORMAT = "{manga_name} [Ch-{chapter}]"
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

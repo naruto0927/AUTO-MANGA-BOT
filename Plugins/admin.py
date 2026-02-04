@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -211,7 +211,7 @@ async def rem_watermark_msg(client: Client, message: Message):
         await message.reply_text(f"❌ failed to remove watermark: {str(e)}")
 
 
-# rexbots
+# CantarellaBots
 # don't remove credit
 # Telegram Channel @CantarellaBots
 #supoort group @rexbotschat
@@ -393,7 +393,7 @@ async def fsub_settings_callback(client: Client, callback_query):
 
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

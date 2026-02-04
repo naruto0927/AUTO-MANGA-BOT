@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -118,7 +118,7 @@ async def start_msg(client, message):
         except:
             pass
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -139,7 +139,7 @@ async def help_menu(client, callback_query):
     await edit_msg_with_pic(callback_query.message, paraphrased, InlineKeyboardMarkup(buttons))
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

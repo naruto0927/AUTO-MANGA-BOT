@@ -1,4 +1,4 @@
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -109,7 +109,7 @@ async def del_banner_cb(client, callback_query):
     await callback_query.answer(f"Banner {num} deleted!", show_alert=True)
     await set_banner_cb(client, callback_query)
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat
@@ -218,7 +218,7 @@ async def set_thumb_cb(client, callback_query):
 
 
 
-# Rexbots
+# CantarellaBots
 # Don't Remove Credit
 # Telegram Channel @CantarellaBots
 #Supoort group @rexbotschat

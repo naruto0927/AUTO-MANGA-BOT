@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb">
 </p>
 
-An advanced Telegram bot by **RexBots** designed to automate manga management. This bot supports downloading from multiple sources, auto-uploading to channels, PDF/CBZ generation, and advanced customization options.
+An advanced Telegram bot by **CantarellaBots** designed to automate manga management. This bot supports downloading from multiple sources, auto-uploading to channels, PDF/CBZ generation, and advanced customization options.
 
 ## 🚀 Features
 
@@ -70,8 +70,8 @@ To run the bot, you need to set the following environment variables:
 ### Docker
 
 ```bash
-docker build -t rexbots-manga-bot -f Docker .
-docker run -d --env-file .env rexbots-manga-bot
+docker build -t CantarellaBots-manga-bot -f Docker .
+docker run -d --env-file .env CantarellaBots-manga-bot
 ```
 
 ## 🤝 Contributors
@@ -92,6 +92,6 @@ For queries, feature requests, or bug reports, join our official channel:
 
 <div align="center">
   <a href="https://t.me/akaza7902">
-    <img src="https://img.shields.io/badge/RexBots-Official%20Channel-blue?style=for-the-badge&logo=telegram">
+    <img src="https://img.shields.io/badge/CantarellaBots%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </div>
